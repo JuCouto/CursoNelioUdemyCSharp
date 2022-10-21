@@ -1,0 +1,15 @@
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\CursoNelio\bin\Debug\net6.0\CursoNelio.exe
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\CursoNelio\bin\Debug\net6.0\CursoNelio.deps.json
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\CursoNelio\bin\Debug\net6.0\CursoNelio.runtimeconfig.json
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\CursoNelio\bin\Debug\net6.0\CursoNelio.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\CursoNelio\bin\Debug\net6.0\CursoNelio.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\CursoNelio\obj\Debug\net6.0\CursoNelio.csproj.AssemblyReference.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\CursoNelio\obj\Debug\net6.0\CursoNelio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\CursoNelio\obj\Debug\net6.0\CursoNelio.AssemblyInfoInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\CursoNelio\obj\Debug\net6.0\CursoNelio.AssemblyInfo.cs
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\CursoNelio\obj\Debug\net6.0\CursoNelio.csproj.CoreCompileInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\CursoNelio\obj\Debug\net6.0\CursoNelio.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\CursoNelio\obj\Debug\net6.0\refint\CursoNelio.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\CursoNelio\obj\Debug\net6.0\CursoNelio.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\CursoNelio\obj\Debug\net6.0\CursoNelio.genruntimeconfig.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\CursoNelio\obj\Debug\net6.0\ref\CursoNelio.dll
