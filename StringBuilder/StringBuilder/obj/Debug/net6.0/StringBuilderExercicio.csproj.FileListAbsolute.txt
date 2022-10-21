@@ -1,0 +1,15 @@
+C:\Users\jnalm\Desktop\ProjetoConsole\StringBuilder\StringBuilder\bin\Debug\net6.0\StringBuilderExercicio.exe
+C:\Users\jnalm\Desktop\ProjetoConsole\StringBuilder\StringBuilder\bin\Debug\net6.0\StringBuilderExercicio.deps.json
+C:\Users\jnalm\Desktop\ProjetoConsole\StringBuilder\StringBuilder\bin\Debug\net6.0\StringBuilderExercicio.runtimeconfig.json
+C:\Users\jnalm\Desktop\ProjetoConsole\StringBuilder\StringBuilder\bin\Debug\net6.0\StringBuilderExercicio.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\StringBuilder\StringBuilder\bin\Debug\net6.0\StringBuilderExercicio.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilderExercicio.csproj.AssemblyReference.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilderExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnalm\Desktop\ProjetoConsole\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilderExercicio.AssemblyInfoInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilderExercicio.AssemblyInfo.cs
+C:\Users\jnalm\Desktop\ProjetoConsole\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilderExercicio.csproj.CoreCompileInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilderExercicio.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\StringBuilder\StringBuilder\obj\Debug\net6.0\refint\StringBuilderExercicio.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilderExercicio.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilderExercicio.genruntimeconfig.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\StringBuilder\StringBuilder\obj\Debug\net6.0\ref\StringBuilderExercicio.dll
