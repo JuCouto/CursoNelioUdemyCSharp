@@ -1,0 +1,15 @@
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\HerancaPolimorfismo\HerancaPolimorfismo\bin\Debug\net6.0\HerancaPolimorfismo.exe
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\HerancaPolimorfismo\HerancaPolimorfismo\bin\Debug\net6.0\HerancaPolimorfismo.deps.json
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\HerancaPolimorfismo\HerancaPolimorfismo\bin\Debug\net6.0\HerancaPolimorfismo.runtimeconfig.json
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\HerancaPolimorfismo\HerancaPolimorfismo\bin\Debug\net6.0\HerancaPolimorfismo.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\HerancaPolimorfismo\HerancaPolimorfismo\bin\Debug\net6.0\HerancaPolimorfismo.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\HerancaPolimorfismo\HerancaPolimorfismo\obj\Debug\net6.0\HerancaPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\HerancaPolimorfismo\HerancaPolimorfismo\obj\Debug\net6.0\HerancaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\HerancaPolimorfismo\HerancaPolimorfismo\obj\Debug\net6.0\HerancaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\HerancaPolimorfismo\HerancaPolimorfismo\obj\Debug\net6.0\HerancaPolimorfismo.AssemblyInfo.cs
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\HerancaPolimorfismo\HerancaPolimorfismo\obj\Debug\net6.0\HerancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\HerancaPolimorfismo\HerancaPolimorfismo\obj\Debug\net6.0\HerancaPolimorfismo.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\HerancaPolimorfismo\HerancaPolimorfismo\obj\Debug\net6.0\refint\HerancaPolimorfismo.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\HerancaPolimorfismo\HerancaPolimorfismo\obj\Debug\net6.0\HerancaPolimorfismo.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\HerancaPolimorfismo\HerancaPolimorfismo\obj\Debug\net6.0\HerancaPolimorfismo.genruntimeconfig.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\HerancaPolimorfismo\HerancaPolimorfismo\obj\Debug\net6.0\ref\HerancaPolimorfismo.dll
