@@ -1,0 +1,15 @@
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\InterfaceIComparable\InterfaceIComparable\bin\Debug\net6.0\InterfaceIComparable.exe
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\InterfaceIComparable\InterfaceIComparable\bin\Debug\net6.0\InterfaceIComparable.deps.json
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\InterfaceIComparable\InterfaceIComparable\bin\Debug\net6.0\InterfaceIComparable.runtimeconfig.json
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\InterfaceIComparable\InterfaceIComparable\bin\Debug\net6.0\InterfaceIComparable.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\InterfaceIComparable\InterfaceIComparable\bin\Debug\net6.0\InterfaceIComparable.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\InterfaceIComparable\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.csproj.AssemblyReference.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\InterfaceIComparable\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\InterfaceIComparable\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.AssemblyInfoInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\InterfaceIComparable\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.AssemblyInfo.cs
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\InterfaceIComparable\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.csproj.CoreCompileInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\InterfaceIComparable\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\InterfaceIComparable\InterfaceIComparable\obj\Debug\net6.0\refint\InterfaceIComparable.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\InterfaceIComparable\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\InterfaceIComparable\InterfaceIComparable\obj\Debug\net6.0\InterfaceIComparable.genruntimeconfig.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\InterfaceIComparable\InterfaceIComparable\obj\Debug\net6.0\ref\InterfaceIComparable.dll
