@@ -1,0 +1,15 @@
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\bin\Debug\net6.0\ExercicioFixacaoArquivos.exe
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\bin\Debug\net6.0\ExercicioFixacaoArquivos.deps.json
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\bin\Debug\net6.0\ExercicioFixacaoArquivos.runtimeconfig.json
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\bin\Debug\net6.0\ExercicioFixacaoArquivos.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\bin\Debug\net6.0\ExercicioFixacaoArquivos.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\obj\Debug\net6.0\ExercicioFixacaoArquivos.csproj.AssemblyReference.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\obj\Debug\net6.0\ExercicioFixacaoArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\obj\Debug\net6.0\ExercicioFixacaoArquivos.AssemblyInfoInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\obj\Debug\net6.0\ExercicioFixacaoArquivos.AssemblyInfo.cs
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\obj\Debug\net6.0\ExercicioFixacaoArquivos.csproj.CoreCompileInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\obj\Debug\net6.0\ExercicioFixacaoArquivos.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\obj\Debug\net6.0\refint\ExercicioFixacaoArquivos.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\obj\Debug\net6.0\ExercicioFixacaoArquivos.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\obj\Debug\net6.0\ExercicioFixacaoArquivos.genruntimeconfig.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioFixacaoArquivos\ExercicioFixacaoArquivos\obj\Debug\net6.0\ref\ExercicioFixacaoArquivos.dll
