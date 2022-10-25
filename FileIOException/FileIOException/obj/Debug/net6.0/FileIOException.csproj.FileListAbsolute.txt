@@ -1,0 +1,15 @@
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\FileIOException\FileIOException\bin\Debug\net6.0\FileIOException.exe
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\FileIOException\FileIOException\bin\Debug\net6.0\FileIOException.deps.json
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\FileIOException\FileIOException\bin\Debug\net6.0\FileIOException.runtimeconfig.json
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\FileIOException\FileIOException\bin\Debug\net6.0\FileIOException.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\FileIOException\FileIOException\bin\Debug\net6.0\FileIOException.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\FileIOException\FileIOException\obj\Debug\net6.0\FileIOException.csproj.AssemblyReference.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\FileIOException\FileIOException\obj\Debug\net6.0\FileIOException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\FileIOException\FileIOException\obj\Debug\net6.0\FileIOException.AssemblyInfoInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\FileIOException\FileIOException\obj\Debug\net6.0\FileIOException.AssemblyInfo.cs
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\FileIOException\FileIOException\obj\Debug\net6.0\FileIOException.csproj.CoreCompileInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\FileIOException\FileIOException\obj\Debug\net6.0\FileIOException.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\FileIOException\FileIOException\obj\Debug\net6.0\refint\FileIOException.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\FileIOException\FileIOException\obj\Debug\net6.0\FileIOException.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\FileIOException\FileIOException\obj\Debug\net6.0\FileIOException.genruntimeconfig.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\FileIOException\FileIOException\obj\Debug\net6.0\ref\FileIOException.dll
