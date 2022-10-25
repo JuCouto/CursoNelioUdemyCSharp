@@ -1,0 +1,15 @@
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\DirectoryInfo\DirectoryInfo\bin\Debug\net6.0\DirectoryInfo.exe
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\DirectoryInfo\DirectoryInfo\bin\Debug\net6.0\DirectoryInfo.deps.json
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\DirectoryInfo\DirectoryInfo\bin\Debug\net6.0\DirectoryInfo.runtimeconfig.json
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\DirectoryInfo\DirectoryInfo\bin\Debug\net6.0\DirectoryInfo.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\DirectoryInfo\DirectoryInfo\bin\Debug\net6.0\DirectoryInfo.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\DirectoryInfo\DirectoryInfo\obj\Debug\net6.0\DirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\DirectoryInfo\DirectoryInfo\obj\Debug\net6.0\DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\DirectoryInfo\DirectoryInfo\obj\Debug\net6.0\DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\DirectoryInfo\DirectoryInfo\obj\Debug\net6.0\DirectoryInfo.AssemblyInfo.cs
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\DirectoryInfo\DirectoryInfo\obj\Debug\net6.0\DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\DirectoryInfo\DirectoryInfo\obj\Debug\net6.0\DirectoryInfo.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\DirectoryInfo\DirectoryInfo\obj\Debug\net6.0\refint\DirectoryInfo.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\DirectoryInfo\DirectoryInfo\obj\Debug\net6.0\DirectoryInfo.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\DirectoryInfo\DirectoryInfo\obj\Debug\net6.0\DirectoryInfo.genruntimeconfig.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\DirectoryInfo\DirectoryInfo\obj\Debug\net6.0\ref\DirectoryInfo.dll

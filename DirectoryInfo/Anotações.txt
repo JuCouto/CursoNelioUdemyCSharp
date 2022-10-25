@@ -1,0 +1,14 @@
+Directory Directoryinfo
+operações com pastas
+
+directory operações staticas (mais lento)
+
+directoryinfo  operações de instancia
+
+*listar pasta a partir de pasta informada
+*listar arqivo a partir da pasta informada
+*criar pasta
+
+
+máscara de busca:
+"*.*" --> qualquer nome de arquivo e qualquer extensão
