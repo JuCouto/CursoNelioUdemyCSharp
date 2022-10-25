@@ -1,0 +1,5 @@
+interface
+
+Propriedade calculada -- classe invoice
+
+Math.Ceiling -- arredonda valor para cima

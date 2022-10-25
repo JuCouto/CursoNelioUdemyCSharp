@@ -1,0 +1,5 @@
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\Interface\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\Interface\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\Interface\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
