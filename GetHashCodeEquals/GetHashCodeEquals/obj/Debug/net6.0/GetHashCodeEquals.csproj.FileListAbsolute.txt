@@ -1,0 +1,15 @@
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net6.0\GetHashCodeEquals.exe
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net6.0\GetHashCodeEquals.deps.json
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net6.0\GetHashCodeEquals.runtimeconfig.json
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net6.0\GetHashCodeEquals.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net6.0\GetHashCodeEquals.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.csproj.AssemblyReference.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.AssemblyInfoInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.AssemblyInfo.cs
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.csproj.CoreCompileInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\refint\GetHashCodeEquals.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\GetHashCodeEquals.genruntimeconfig.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net6.0\ref\GetHashCodeEquals.dll
