@@ -1,0 +1,2 @@
+Objetos IDisposable não são gerenciados pelo CLR do .NET. Eles precisam ser fechados manualmente.
+EX: Font, FileStream, Streamreader, StreamWriter
