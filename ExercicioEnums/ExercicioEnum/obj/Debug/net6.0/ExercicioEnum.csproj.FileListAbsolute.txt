@@ -1,0 +1,15 @@
+C:\Users\jnalm\Desktop\ProjetoConsole\ExercicioEnum\ExercicioEnum\bin\Debug\net6.0\ExercicioEnum.exe
+C:\Users\jnalm\Desktop\ProjetoConsole\ExercicioEnum\ExercicioEnum\bin\Debug\net6.0\ExercicioEnum.deps.json
+C:\Users\jnalm\Desktop\ProjetoConsole\ExercicioEnum\ExercicioEnum\bin\Debug\net6.0\ExercicioEnum.runtimeconfig.json
+C:\Users\jnalm\Desktop\ProjetoConsole\ExercicioEnum\ExercicioEnum\bin\Debug\net6.0\ExercicioEnum.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\ExercicioEnum\ExercicioEnum\bin\Debug\net6.0\ExercicioEnum.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\ExercicioEnum\ExercicioEnum\obj\Debug\net6.0\ExercicioEnum.csproj.AssemblyReference.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\ExercicioEnum\ExercicioEnum\obj\Debug\net6.0\ExercicioEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnalm\Desktop\ProjetoConsole\ExercicioEnum\ExercicioEnum\obj\Debug\net6.0\ExercicioEnum.AssemblyInfoInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\ExercicioEnum\ExercicioEnum\obj\Debug\net6.0\ExercicioEnum.AssemblyInfo.cs
+C:\Users\jnalm\Desktop\ProjetoConsole\ExercicioEnum\ExercicioEnum\obj\Debug\net6.0\ExercicioEnum.csproj.CoreCompileInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\ExercicioEnum\ExercicioEnum\obj\Debug\net6.0\ExercicioEnum.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\ExercicioEnum\ExercicioEnum\obj\Debug\net6.0\refint\ExercicioEnum.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\ExercicioEnum\ExercicioEnum\obj\Debug\net6.0\ExercicioEnum.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\ExercicioEnum\ExercicioEnum\obj\Debug\net6.0\ExercicioEnum.genruntimeconfig.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\ExercicioEnum\ExercicioEnum\obj\Debug\net6.0\ref\ExercicioEnum.dll
