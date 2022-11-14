@@ -1,0 +1,15 @@
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioHashSet\ExercicioHashSet\bin\Debug\net6.0\ExercicioHashSet.exe
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioHashSet\ExercicioHashSet\bin\Debug\net6.0\ExercicioHashSet.deps.json
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioHashSet\ExercicioHashSet\bin\Debug\net6.0\ExercicioHashSet.runtimeconfig.json
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioHashSet\ExercicioHashSet\bin\Debug\net6.0\ExercicioHashSet.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioHashSet\ExercicioHashSet\bin\Debug\net6.0\ExercicioHashSet.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioHashSet\ExercicioHashSet\obj\Debug\net6.0\ExercicioHashSet.csproj.AssemblyReference.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioHashSet\ExercicioHashSet\obj\Debug\net6.0\ExercicioHashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioHashSet\ExercicioHashSet\obj\Debug\net6.0\ExercicioHashSet.AssemblyInfoInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioHashSet\ExercicioHashSet\obj\Debug\net6.0\ExercicioHashSet.AssemblyInfo.cs
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioHashSet\ExercicioHashSet\obj\Debug\net6.0\ExercicioHashSet.csproj.CoreCompileInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioHashSet\ExercicioHashSet\obj\Debug\net6.0\ExercicioHashSet.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioHashSet\ExercicioHashSet\obj\Debug\net6.0\refint\ExercicioHashSet.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioHashSet\ExercicioHashSet\obj\Debug\net6.0\ExercicioHashSet.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioHashSet\ExercicioHashSet\obj\Debug\net6.0\ExercicioHashSet.genruntimeconfig.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\CursoNelio\ExercicioHashSet\ExercicioHashSet\obj\Debug\net6.0\ref\ExercicioHashSet.dll
