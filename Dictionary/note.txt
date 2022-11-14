@@ -1,0 +1,12 @@
+Dictionary (map, chave/valor)
+
+armazenadoem tabela hash
+rápido
+a ordem não é garantida
+
+
+
+SORTED DICTIONARY
+
+armazenamento em árvore
+ordenado
